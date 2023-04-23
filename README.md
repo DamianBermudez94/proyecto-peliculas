@@ -1,4 +1,5 @@
 # proyecto-peliculas
+
 Maquetación de una SPA de peliculas con algunos estilos visuales para luego darle funcionalidad con JavaScript y React
 
 
