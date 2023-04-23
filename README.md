@@ -8,6 +8,4 @@ HTML5 - CSS3 ( uso de CSS grid y flexbox )
 
 Funcionalidades:
 
--Buscador de  peliculas
--Guardar peliculas
--Eliminar y editar peliculas ( actualizando en el LocalStorage )
+Buscador de  peliculas - Guardar peliculas - Eliminar y editar peliculas ( actualizando en el LocalStorage )
